@@ -1,0 +1,4 @@
+*.sw[opnlm]
+.DS_Store
+
+/node_modules/
